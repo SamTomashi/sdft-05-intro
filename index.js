@@ -1,1 +1,1 @@
-alert("Sam Tomashi")
+alert("Moringa school")
