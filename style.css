@@ -1,0 +1,14 @@
+div{
+    border: solid 5px #000000;
+}
+
+#first{
+    padding:20px;
+    margin:50px
+}
+
+
+.second{
+    padding:50px;
+    margin:100px
+}
